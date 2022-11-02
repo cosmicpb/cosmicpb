@@ -1,6 +1,6 @@
 - 👋 Olá meu amigos, sou o Paulo Baldanão
-- 👀 Aqui eu falo sobre Performance Web, crio gráficos e mapas, ensino física e falo sobre dados e informações.
-- 🌱 Atualmente estou aprendendo ainda mais sobre Python, Análise de Dados e Geoprocessamento
+- 👀 Eu sou especialista em performance, com foco em Performance Web, crio gráficos e mapas, ensino física e falo sobre dados e informações.
+- 🌱 Atualmente estou aprendendo ainda mais sobre Python, Análise de Dados, Geoprocessamento e, principalmente, PERFORMANCE!
 - 💞️ Estou procurando projetos em geoprocessamento para colaborar: sou fera demais com lógica e estatística avançada
 - 📫 Para me encontrar:
 -       e-mail: pbaldacimjr@gmail.com
