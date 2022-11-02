@@ -3,8 +3,6 @@
 - 🌱 Atualmente estou aprendendo ainda mais sobre Python, Análise de Dados, Geoprocessamento e, principalmente, PERFORMANCE!
 - 💞️ Estou procurando projetos em geoprocessamento para colaborar: sou fera demais com lógica e estatística avançada
 - 📫 Para me encontrar:
--       e-mail: pbaldacimjr@gmail.com
--       LinkeDinho: https://www.linkedin.com/in/paulobaldacimjunior/
 
 
 Descrição dos principais projetos:
