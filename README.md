@@ -13,6 +13,8 @@ Descrição dos principais projetos:
 - WebPerfCli: utiliza a API do Lighthouse para salvar métricas de Core Web Vitals em um CSV;
 - ImageRanking: Mapeia as imagens em determinados sites utilizando Selenium e Python. Sem manutenção já há alguns meses.
 
+![](https://komarev.com/ghpvc/?username=cosmicpb)
+
 <!---
 cosmicpb/cosmicpb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
