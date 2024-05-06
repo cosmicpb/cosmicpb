@@ -6,8 +6,8 @@
 
 Descrição dos principais projetos:
 - 2022-brelections-Apuration: script criado para acompanhamento ao vivo das apurações das eleições 2022 - segundo turno para presidente;
-- WebPerfCli: utiliza a API do Lighthouse para salvar métricas de Core Web Vitals em um CSV;
-- ImageRanking: Mapeia as imagens em determinados sites utilizando Selenium e Python. Sem manutenção já há alguns meses.
+- WebPerfCli: utiliza a API do Lighthouse para salvar métricas de Core Web Vitals em um CSV; DEPRECATED
+- ImageRanking: Mapeia as imagens em determinados sites utilizando Selenium e Python. DEPRECATED
 
 ![](https://komarev.com/ghpvc/?username=cosmicpb)
 
